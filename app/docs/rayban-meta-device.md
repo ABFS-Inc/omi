@@ -138,8 +138,6 @@ credentials. See `app/docs/rayban-meta-dat-setup.md` for the `full` build.
 
 ## Limitations (current, honest)
 
-- **Android audio-only copy**: the Bluetooth-microphone picker's empty/error
-  strings still say "iPhone Settings" (l10n follow-up).
 - **No battery level** — DAT 0.8 does not expose it; the UI hides battery.
 - **HFP voice quality** (≈8 kHz) is below Omi pendant audio; fine for
   transcription, noticeable on playback.
