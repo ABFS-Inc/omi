@@ -9820,7 +9820,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get rayBanMetaMicPickerEmpty =>
-      'Nessun microfono Bluetooth trovato. Collega gli occhiali nelle Impostazioni dell\'iPhone e riprova.';
+      'Nessun microfono Bluetooth trovato. Collega gli occhiali nelle impostazioni Bluetooth del telefono e riprova.';
 
   @override
   String get rayBanMetaMicPickerLoadError =>
@@ -9828,7 +9828,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get rayBanMetaMicPickerConnectError =>
-      'Impossibile connettersi a quel microfono. Assicurati che sia connesso nelle Impostazioni dell\'iPhone.';
+      'Impossibile connettersi a quel microfono. Assicurati che sia connesso nelle impostazioni Bluetooth del telefono.';
 
   @override
   String get syncStatusTooOld => 'Troppo vecchia per la sincronizzazione — Omi non può accettarla';
